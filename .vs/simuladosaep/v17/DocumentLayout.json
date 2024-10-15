@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|c:\\users\\57267874800\\desktop\\mvc\\simuladosaep\\simuladosaep\\controllers\\atividadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|solutionrelative:simuladosaep\\controllers\\atividadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|c:\\users\\57267874800\\desktop\\mvc\\simuladosaep\\simuladosaep\\views\\professors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|solutionrelative:simuladosaep\\views\\professors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|c:\\users\\57267874800\\desktop\\mvc\\simuladosaep\\simuladosaep\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|solutionrelative:simuladosaep\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|c:\\users\\57267874800\\desktop\\mvc\\simuladosaep\\simuladosaep\\controllers\\professorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|solutionrelative:simuladosaep\\controllers\\professorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|c:\\users\\57267874800\\desktop\\mvc\\simuladosaep\\simuladosaep\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|solutionrelative:simuladosaep\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|c:\\users\\57267874800\\desktop\\mvc\\simuladosaep\\simuladosaep\\contexts\\dbdevcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|solutionrelative:simuladosaep\\contexts\\dbdevcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|c:\\users\\57267874800\\desktop\\mvc\\simuladosaep\\simuladosaep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|solutionrelative:simuladosaep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|c:\\users\\57267874800\\desktop\\mvc\\simuladosaep\\simuladosaep\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|solutionrelative:simuladosaep\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|c:\\users\\57267874800\\desktop\\mvc\\simuladosaep\\simuladosaep\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|solutionrelative:simuladosaep\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|c:\\users\\57267874800\\desktop\\mvc\\simuladosaep\\simuladosaep\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|solutionrelative:simuladosaep\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|c:\\users\\57267874800\\desktop\\mvc\\simuladosaep\\simuladosaep\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|solutionrelative:simuladosaep\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|c:\\users\\57267874800\\desktop\\mvc\\simuladosaep\\simuladosaep\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF18D1BD-2943-402F-AF57-F1C5D63D2163}|simuladosaep\\simuladosaep.csproj|solutionrelative:simuladosaep\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AtividadeController.cs",
+              "DocumentMoniker": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Controllers\\AtividadeController.cs",
+              "RelativeDocumentMoniker": "simuladosaep\\Controllers\\AtividadeController.cs",
+              "ToolTip": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Controllers\\AtividadeController.cs",
+              "RelativeToolTip": "simuladosaep\\Controllers\\AtividadeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:38:47.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "simuladosaep\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "simuladosaep\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T11:47:27.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "simuladosaep\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "simuladosaep\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T11:44:15.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "simuladosaep\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "simuladosaep\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:29:37.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Views\\Professors\\Index.cshtml",
+              "RelativeDocumentMoniker": "simuladosaep\\Views\\Professors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Views\\Professors\\Index.cshtml",
+              "RelativeToolTip": "simuladosaep\\Views\\Professors\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T12:55:00.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "simuladosaep\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "simuladosaep\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:07:40.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbDevContext.cs",
+              "DocumentMoniker": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Contexts\\DbDevContext.cs",
+              "RelativeDocumentMoniker": "simuladosaep\\Contexts\\DbDevContext.cs",
+              "ToolTip": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Contexts\\DbDevContext.cs",
+              "RelativeToolTip": "simuladosaep\\Contexts\\DbDevContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:28:43.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Program.cs",
+              "RelativeDocumentMoniker": "simuladosaep\\Program.cs",
+              "ToolTip": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Program.cs",
+              "RelativeToolTip": "simuladosaep\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:10:35.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfessorsController.cs",
+              "DocumentMoniker": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Controllers\\ProfessorsController.cs",
+              "RelativeDocumentMoniker": "simuladosaep\\Controllers\\ProfessorsController.cs",
+              "ToolTip": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Controllers\\ProfessorsController.cs",
+              "RelativeToolTip": "simuladosaep\\Controllers\\ProfessorsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:05:04.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\appsettings.json",
+              "RelativeDocumentMoniker": "simuladosaep\\appsettings.json",
+              "ToolTip": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\appsettings.json",
+              "RelativeToolTip": "simuladosaep\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T12:01:23.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "simuladosaep\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "simuladosaep\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T13:25:11.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "simuladosaep\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\57267874800\\Desktop\\MVC\\simuladosaep\\simuladosaep\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "simuladosaep\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T13:11:42.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
